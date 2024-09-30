@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/exemples/Dessin/Dessin.iml" filepath="$PROJECT_DIR$/exemples/Dessin/Dessin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exemples/LogicielDessinAbstractFactory/LogicielDessinAbstractFactory.iml" filepath="$PROJECT_DIR$/exemples/LogicielDessinAbstractFactory/LogicielDessinAbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exemples/LogicielDessinStrategy/LogicielDessinStrategy.iml" filepath="$PROJECT_DIR$/exemples/LogicielDessinStrategy/LogicielDessinStrategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exemples/LogicielDessinTemplateMethod/LogicielDessinTemplateMethod.iml" filepath="$PROJECT_DIR$/exemples/LogicielDessinTemplateMethod/LogicielDessinTemplateMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaine 3.iml" filepath="$PROJECT_DIR$/Semaine 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercices/ex3Aa/ex3Aa.iml" filepath="$PROJECT_DIR$/exercices/ex3Aa/ex3Aa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercices/ex3Ab/ex3Ab.iml" filepath="$PROJECT_DIR$/exercices/ex3Ab/ex3Ab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercices/ex3B/ex3B.iml" filepath="$PROJECT_DIR$/exercices/ex3B/ex3B.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercices/ex3C/ex3C.iml" filepath="$PROJECT_DIR$/exercices/ex3C/ex3C.iml" />
+    </modules>
+  </component>
+</project>
